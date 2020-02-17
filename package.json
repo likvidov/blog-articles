@@ -1,0 +1,24 @@
+{
+  "name": "blog-articles",
+  "version": "1.0.0",
+  "description": "blog articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/likvidov/blog-articles.git"
+  },
+  "keywords": [
+    "blog",
+    "js",
+    "javascript"
+  ],
+  "author": "likvidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likvidov/blog-articles/issues"
+  },
+  "homepage": "https://github.com/likvidov/blog-articles#readme"
+}
